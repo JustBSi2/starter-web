@@ -1,4 +1,4 @@
 creation de conflit 
-ligne 1
+je modifie la ligne dans master 
 ligne 2
 ligne 3
