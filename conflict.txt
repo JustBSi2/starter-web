@@ -1,4 +1,7 @@
 creation de conflit 
 ligne 1
-ligne 2
+modification ligne 2 
 ligne 3
+ligne 4
+ligne5
+ligne 6
