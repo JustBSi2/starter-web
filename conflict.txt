@@ -1,4 +1,7 @@
 creation de conflit 
-je modifie la ligne dans master 
-ligne 2
+beber est createur de conflits perpetuels!
+
 ligne 3
+ligne 4
+ligne5
+ligne 6

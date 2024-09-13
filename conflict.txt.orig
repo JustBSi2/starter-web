@@ -1,0 +1,12 @@
+creation de conflit 
+<<<<<<< HEAD
+je modifie la ligne dans master 
+ligne 2
+=======
+ligne 1
+modification ligne 2 
+>>>>>>> realwork
+ligne 3
+ligne 4
+ligne5
+ligne 6
